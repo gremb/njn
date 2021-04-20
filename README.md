@@ -1,2 +1,0 @@
-# njn
-Begin app
